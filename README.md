@@ -1,2 +1,4 @@
-# Ola mundo 
+# Olá, mundo! 
 primeiro repositório de GIT e GITHUB 
+
+Repositório criado durante o curso de GIT e GITHUB do Gustavo Guanabara!
